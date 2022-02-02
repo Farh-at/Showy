@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x64102c5efcc1ffc799387ad9d0c8d1fa634e2f33",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x216ffcf88b1980be966f791d225cd4a8169518097dbd90fcb994374b68ac6a0d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Showy NFT",
+  "SYMBOL": "SHNFT",
+  "MAX_SUPPLY": 42,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/showy",
+  "SHOW_BACKGROUND": true
+}
